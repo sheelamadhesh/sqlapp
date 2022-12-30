@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'wepapp10'
           slot-name: 'Staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_81F0EA83257B4250A52F74CFC43EF845 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ABAB07E898A43EBBEF828B6A7348689 }}
           package: .
